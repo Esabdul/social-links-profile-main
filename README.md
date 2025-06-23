@@ -75,7 +75,7 @@ This challenge helped me:
   outline: 2px solid var(--color-green);
   outline-offset: 4px;
 }
-
+```
 ### Continued development
 
 In future projects, I want to:
@@ -104,4 +104,3 @@ In future projects, I want to:
 ## Acknowledgments
 
 Thanks to [Frontend Mentor](https://www.frontendmentor.io/) for the challenge.
-```
